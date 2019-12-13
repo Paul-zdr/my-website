@@ -1,0 +1,10 @@
+.btn
+{
+    padding: 15px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    background-color: #db5830;
+    color: white;
+}
