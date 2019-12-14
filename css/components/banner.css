@@ -5,7 +5,7 @@
     background-size: cover;
     background-repeat: no-repeat;
 
-    height: 500px;
+    height: 700px;
 }
 
 #banner-container
@@ -17,10 +17,11 @@
 #banner #banner-title
 {
     margin: 0;
-    padding: 185px 0 0;
+    padding: 285px 0 0;
     line-height: 50px;
     vertical-align: middle;
     color: white;
+    text-shadow: 0 0 10px black;
     font-size: 45px;
     width: 100%;
 }
@@ -30,7 +31,8 @@
     margin: 0;
     line-height: 50px;
     vertical-align: middle;
-    color: #db5830;
+    color: #8d36db;
+    text-shadow: 0 0 10px black;
     font-size: 35px;
     width: 100%;
 }

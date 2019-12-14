@@ -2,9 +2,10 @@
 {
     padding: 15px 20px;
     font-weight: bold;
+    border-radius: 5px;
     text-decoration: none;
     display: inline-block;
     font-size: 18px;
-    background-color: #db5830;
+    background-color: #8d36db;
     color: white;
 }
